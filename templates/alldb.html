@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Номенклатура
+{% endblock %}
+
+{% block content %}
+<div class="table">
+<table>
+<tr>
+	<td>№</td>
+	<td>Наименование</td>
+	<td>Цена</td>
+	<td>Вес</td>
+</tr>
+{% for i in maches %}
+<tr>
+	<td>{{ i.id }}</td>
+	<td>{{ i.name }}</td>
+	<td>{{ i.price }}</td>
+	<td>{{ i.weight }}</td>
+</tr>
+{% endfor %}
+ </table>
+</div>
+{% endblock %}

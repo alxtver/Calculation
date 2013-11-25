@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Обратная связь
+{% endblock %}
+
+{% block content %}
+<form action="." method="post">{% csrf_token %}
+
+
+    {{ qs.as_table }}
+
+
+</form>
+{% endblock %}

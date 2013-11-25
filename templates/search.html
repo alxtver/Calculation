@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Поиск
+{% endblock %}
+
+{% block content %}
+
+{% if errors %}
+
+    {% for error in errors %}
+       <p class="font_error"> {{ error }} </p>
+    {% endfor %}
+
+{% endif %}
+
+<form action="" method="get">
+    <input type="text" name=q>
+    <input type="submit" value="Найти">
+</form>
+{% endblock %}

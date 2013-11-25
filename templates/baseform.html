@@ -1,0 +1,167 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Главная страница
+{% endblock %}
+
+
+
+{% block content %}
+    <form action="" method="post">
+<div id="feedbackP">
+    <div id="feedbackButton">
+        Опции
+    </div>
+    <p class="font_form_text"> Наценка
+          <input type="text" name=nacenka value="0" size="5">  </p>
+    <p class="font_form_text"> Скидка
+          <input type="text" name=discont value="0" size="5">  </p>
+</div>
+    <div class="block" >
+        <p class="font_text">Пристенные стеллажи</p>
+      <p class="font_form_text"> Высота стеллажей      
+          <select name="height_stell">
+            <option value="2200">2200</option>
+            <option value="1600">1600</option>
+            <option value="2400">2400</option>
+          </select>
+    Базовая полка
+          <select name="base_polka">
+            <option value="500">500</option>
+            <option value="400">400</option>
+            <option value="600">600</option>
+          </select>
+      </p>
+      <p class="font_form_text"> Колличество дополнительных стоек
+          <input type="text" name=dop_stoyka value="0" size="5">  </p>
+      <div class="tables">
+        <table>
+<tr>
+	<td>Наименование</td>
+	<td>Колличество</td>
+	<td>300</td>
+	<td>400</td>
+    <td>500</td>
+    <td>600</td>
+</tr>
+<tr>
+	<td>СК125</td>
+	<td><input type="text" name=kol_125 value="0" size="12"></td>
+	<td><input type="text" name=125_30 value="0" size="5"></td>
+	<td><input type="text" name=125_40 value="0" size="5"></td>
+    <td><input type="text" name=125_50 value="0" size="5"></td>
+    <td><input type="text" name=125_60 value="0" size="5"></td>
+</tr>
+<tr>
+	<td>СК100</td>
+	<td><input type="text" name=kol_100 value="0" size="12"></td>
+	<td><input type="text" name=100_30 value="0" size="5"></td>
+	<td><input type="text" name=100_40 value="0" size="5"></td>
+    <td><input type="text" name=100_50 value="0" size="5"></td>
+    <td><input type="text" name=100_60 value="0" size="5"></td>
+</tr>
+<tr>
+	<td>СК80</td>
+	<td><input type="text" name=kol_80 value="0" size="12"></td>
+	<td><input type="text" name=80_30 value="0" size="5"></td>
+	<td><input type="text" name=80_40 value="0" size="5"></td>
+    <td><input type="text" name=80_50 value="0" size="5"></td>
+    <td><input type="text" name=80_60 value="0" size="5"></td>
+</tr>
+<tr>
+	<td>СК65</td>
+	<td><input type="text" name=kol_65 value="0" size="12"></td>
+	<td><input type="text" name=65_30 value="0" size="5"></td>
+	<td><input type="text" name=65_40 value="0" size="5"></td>
+    <td><input type="text" name=65_50 value="0" size="5"></td>
+    <td><input type="text" name=65_60 value="0" size="5"></td>
+</tr>
+<tr>
+	<td>СКУ</td>
+	<td><input type="text" name=kol_sku value="0" size="12"></td>
+	<td><input type="text" name=sku_30 value="0" size="5"></td>
+	<td><input type="text" name=sku_40 value="0" size="5"></td>
+    <td><input type="text" name=sku_50 value="0" size="5"></td>
+    <td><input type="text" name=sku_60 value="0" size="5"></td>
+</tr>
+<tr>
+	<td>СКУН</td>
+	<td><input type="text" name=kol_skun value="0" size="12"></td>
+	<td><input type="text" name=skun_30 value="0" size="5"></td>
+	<td><input type="text" name=skun_40 value="0" size="5"></td>
+    <td><input type="text" name=skun_50 value="0" size="5"></td>
+    <td><input type="text" name=skun_60 value="0" size="5"></td>
+</tr>
+ </table>
+</div>
+</div>
+
+    <div class="block" >
+        <p class="font_text">Островные стеллажи</p>
+      <p class="font_form_text"> Высота стеллажей
+          <select name="height_stell_ostrov">
+            <option value="1600">1600</option>
+            <option value="2200">2200</option>
+            <option value="2400">2400</option>
+          </select>
+    Базовая полка
+          <select name="base_polka_ostrov">
+            <option value="500">500</option>
+            <option value="400">400</option>
+            <option value="600">600</option>
+          </select>
+      </p>
+      <p class="font_form_text"> Колличество дополнительных стоек
+          <input type="text" name=dop_stoyka_ostrov value="0" size="5">  </p>
+      <div class="tables">
+        <table>
+<tr>
+	<td>Наименование</td>
+	<td>Колличество</td>
+	<td>300</td>
+	<td>400</td>
+    <td>500</td>
+    <td>600</td>
+</tr>
+<tr>
+	<td>СКД125</td>
+	<td><input type="text" name=kol_125_ostrov value="0" size="12"></td>
+	<td><input type="text" name=125_30_ostrov value="0" size="5"></td>
+	<td><input type="text" name=125_40_ostrov value="0" size="5"></td>
+  <td><input type="text" name=125_50_ostrov value="0" size="5"></td>
+  <td><input type="text" name=125_60_ostrov value="0" size="5"></td>
+</tr>
+<tr>
+	<td>СКД100</td>
+	<td><input type="text" name=kol_100_ostrov value="0" size="12"></td>
+	<td><input type="text" name=100_30_ostrov value="0" size="5"></td>
+	<td><input type="text" name=100_40_ostrov value="0" size="5"></td>
+  <td><input type="text" name=100_50_ostrov value="0" size="5"></td>
+  <td><input type="text" name=100_60_ostrov value="0" size="5"></td>
+</tr>
+<tr>
+	<td>СКД80</td>
+	<td><input type="text" name=kol_80_ostrov value="0" size="12"></td>
+	<td><input type="text" name=80_30_ostrov value="0" size="5"></td>
+	<td><input type="text" name=80_40_ostrov value="0" size="5"></td>
+  <td><input type="text" name=80_50_ostrov value="0" size="5"></td>
+  <td><input type="text" name=80_60_ostrov value="0" size="5"></td>
+</tr>
+<tr>
+	<td>СКД65</td>
+	<td><input type="text" name=kol_65_ostrov value="0" size="12"></td>
+	<td><input type="text" name=65_30_ostrov value="0" size="5"></td>
+	<td><input type="text" name=65_40_ostrov value="0" size="5"></td>
+  <td><input type="text" name=65_50_ostrov value="0" size="5"></td>
+  <td><input type="text" name=65_60_ostrov value="0" size="5"></td>
+</tr>
+ </table>
+
+</div>
+        </div>
+<div class="block" >
+    <input type="submit" class="button" value="Расчет">
+        </div>
+    </form>
+
+{% endblock %}

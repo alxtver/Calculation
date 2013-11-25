@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Поиск
+{% endblock %}
+
+{% block content %}
+<p class="table_font_text">Вы искали: <strong>{{ query }}</strong></p>
+
+{% if matches %}
+    <p class="table_font_text">Найдено {{ matches|length }} наименований.</p>
+    <div class="table">
+        <table>
+        <tr>
+	        <td>Наименование</td>
+	        <td>Цена</td>
+	        <td>Вес</td>
+          </tr>
+        {% for i in matches %}
+          <tr>
+	        <td>{{ i.name }}</td>
+	        <td>{{ i.price }}</td>
+	        <td>{{ i.weight }}</td>
+          </tr>
+        {% endfor %}
+        </table>
+    </div>
+{% else %}
+    <p class="table_font_text">Ничего не найдено.</p>
+{% endif %}
+
+{% endblock %}
+

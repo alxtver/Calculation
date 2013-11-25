@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}
+    База для расчета
+{% endblock %}
+
+{% block content %}
+<div class="table">
+<table>
+<tr>
+
+	<td>Наименование</td>
+    <td>Количество</td>
+	<td>Цена</td>
+    <td>Сумма</td>
+	<td>Вес</td>
+</tr>
+{% for i in x %}
+<tr>
+	<td>{{ i.name }}</td>
+    <td>{{ i.number }}</td>
+	<td>{{ i.price }}</td>
+    <td>{% widthratio i.number  1  i.price  %}</td>
+    <td>{% widthratio i.number 1 i.weight %}</td>
+</tr>
+{% endfor %}
+ </table>
+</div>
+{% endblock %}

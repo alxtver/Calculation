@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+{% load staticfiles %}
+<link href="{% static "css/style.css" %}" rel="stylesheet" type="text/css" />
+<head>
+    <title>
+        {% block title %}
+        {% endblock %}
+    </title>
+</head>
+<body>
+
+{% block header %}
+      <span class="noprint">
+        <div class="header">
+        <div class="block_but" style="text-align: center">
+        <a href="/" class="button">Главная</a>
+        <a href="/search/" class="button">Поиск</a>
+        <a href="/catalog/" class="button">Номенклатура</a>
+        <a href="/contact/" class="button">Контакты</a>
+        <a href="/time_rem/" class="button">Время</a>
+        <a href="/admin/" class="button">Admin</a>
+</div>
+            </div>
+        </span>
+        <hr>
+
+    {% endblock %}
+
+
+{% block script %}
+
+    {% endblock %}
+
+<div class="content">
+    {% block content %}
+
+    {% endblock %}
+</div>
+
+
+<div class="footer">
+    {% block footer %}
+        <hr>
+        <p>Python+Django.</p>
+    {% endblock %}
+</div><!--footer-->
+
+
+</body>
+</html>

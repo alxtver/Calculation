@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}
+    База для расчета
+{% endblock %}
+{% block script %}
+<script>
+function printDiv()
+{
+  var divToPrint=document.getElementById('table');
+  newWin= window.open("");
+  newWin.document.write(divToPrint.outerHTML);
+  newWin.print();
+  newWin.close();
+}
+</script>
+    {% endblock %}
+{% block content %}
+
+    <p>{{ post_sk125 }}</p>
+    <form action="" method="post">
+<div class="block1"  id="table">
+<p class="font_text"> Расчет стеллажей Русь</p>
+<div class="table">
+<table border = "1">
+<tr>
+	<td>Наименование</td>
+    <td>Количество</td>
+	<td>Цена</td>
+    <td>Сумма</td>
+	<td>Вес</td>
+</tr>
+{% for i in x %}
+<tr>
+	<td>{{ i.name }}</td>
+    <td>{{ i.number }}</td>
+	<td>{{ i.price }}</td>
+    <td>{{  i.summ }}</td>
+    <td>{{  i.weight }}</td>
+</tr>
+{% endfor %}
+	<td>Итого</td>
+    <td></td>
+	<td></td>
+    <td>{{ itog_price }}</td>
+	<td>{{  itog_weight }}</td>
+ </table>
+</div>
+</div>
+    <div class="block1" >
+    <input type="button" class="button" value="Печать" onclick="printDiv()"> </input>
+{% load staticfiles %}
+    <a href="{{ href }}" class="button">Сохранить</a>
+    </div>
+    </form>
+{% endblock %}

@@ -1,0 +1,539 @@
+<?xml version="1.0"?>
+
+<INVENTORY>
+	<COMP>
+		<NO>1</NO>
+		<NAME>Полка фрукт/конф. 5- секц. в сборе</NAME>
+		<PRICE>517</PRICE>
+		<WEIGHT>462</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>2</NO>
+		<NAME>Полка фрукт/конф. 7-секц. в сборе</NAME>
+		<PRICE>559</PRICE>
+		<WEIGHT>98</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>3</NO>
+		<NAME>Короб фрукт./конф. в сборе</NAME>
+		<PRICE>1388</PRICE>
+		<WEIGHT>473</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>4</NO>
+		<NAME>Корзина овощная цинк в сборе</NAME>
+		<PRICE>798</PRICE>
+		<WEIGHT>724</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>5</NO>
+		<NAME>Панель задняя СК65</NAME>
+		<PRICE>130</PRICE>
+		<WEIGHT>256</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>6</NO>
+		<NAME>Панель фриза СК65</NAME>
+		<PRICE>62</PRICE>
+		<WEIGHT>253</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>7</NO>
+		<NAME>Панель задняя перф. СК65</NAME>
+		<PRICE>188</PRICE>
+		<WEIGHT>384</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>8</NO>
+		<NAME>Основание фриза ЛДС СК65</NAME>
+		<PRICE>200</PRICE>
+		<WEIGHT>465</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>9</NO>
+		<NAME>Полка 300 СК65</NAME>
+		<PRICE>169</PRICE>
+		<WEIGHT>464</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>10</NO>
+		<NAME>Полка 400 СК65</NAME>
+		<PRICE>191</PRICE>
+		<WEIGHT>313</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>11</NO>
+		<NAME>Полка 500 СК65</NAME>
+		<PRICE>244</PRICE>
+		<WEIGHT>13</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>12</NO>
+		<NAME>Полка 600 СК65</NAME>
+		<PRICE>282</PRICE>
+		<WEIGHT>456</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>13</NO>
+		<NAME>Нащельник средний СК65</NAME>
+		<PRICE>64</PRICE>
+		<WEIGHT>131</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>14</NO>
+		<NAME>Панель задняя СК80</NAME>
+		<PRICE>152</PRICE>
+		<WEIGHT>465</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>15</NO>
+		<NAME>Панель фриза СК80</NAME>
+		<PRICE>73</PRICE>
+		<WEIGHT>1321</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>16</NO>
+		<NAME>Панель задняя перф. СК80</NAME>
+		<PRICE>208</PRICE>
+		<WEIGHT>465</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>17</NO>
+		<NAME>Основание фриза ЛДС СК80</NAME>
+		<PRICE>238</PRICE>
+		<WEIGHT>641</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>18</NO>
+		<NAME>Полка 300 СК80</NAME>
+		<PRICE>194</PRICE>
+		<WEIGHT>817</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>19</NO>
+		<NAME>Полка 400 СК80</NAME>
+		<PRICE>222</PRICE>
+		<WEIGHT>993</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>20</NO>
+		<NAME>Полка 500 СК80</NAME>
+		<PRICE>285</PRICE>
+		<WEIGHT>1169</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>21</NO>
+		<NAME>Полка 600 СК80</NAME>
+		<PRICE>329</PRICE>
+		<WEIGHT>1345</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>22</NO>
+		<NAME>Нащельник средний СК80</NAME>
+		<PRICE>71</PRICE>
+		<WEIGHT>1521</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>23</NO>
+		<NAME>Панель задняя СК100</NAME>
+		<PRICE>180</PRICE>
+		<WEIGHT>1697</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>24</NO>
+		<NAME>Панель фриза СК100</NAME>
+		<PRICE>86</PRICE>
+		<WEIGHT>1873</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>25</NO>
+		<NAME>Панель задняя перф. СК100</NAME>
+		<PRICE>238</PRICE>
+		<WEIGHT>2049</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>26</NO>
+		<NAME>Стойка 1600 с опорой</NAME>
+		<PRICE>359</PRICE>
+		<WEIGHT>2225</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>27</NO>
+		<NAME>Стойка 2200 с опорой</NAME>
+		<PRICE>475</PRICE>
+		<WEIGHT>2401</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>28</NO>
+		<NAME>Стойка 2400 с опорой</NAME>
+		<PRICE>505</PRICE>
+		<WEIGHT>2577</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>29</NO>
+		<NAME>Боковина 400 с опорой</NAME>
+		<PRICE>234</PRICE>
+		<WEIGHT>2753</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>30</NO>
+		<NAME>Боковина 500 с опорой</NAME>
+		<PRICE>236</PRICE>
+		<WEIGHT>2929</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>31</NO>
+		<NAME>Боковина 600 с опорой</NAME>
+		<PRICE>278</PRICE>
+		<WEIGHT>3105</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>32</NO>
+		<NAME>Боковина 700 с опорой</NAME>
+		<PRICE>295</PRICE>
+		<WEIGHT>3281</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>33</NO>
+		<NAME>Кронштейн фриза</NAME>
+		<PRICE>113</PRICE>
+		<WEIGHT>3457</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>34</NO>
+		<NAME>Основание фриза ЛДС СК100</NAME>
+		<PRICE>283</PRICE>
+		<WEIGHT>3633</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>35</NO>
+		<NAME>Вставка</NAME>
+		<PRICE>26</PRICE>
+		<WEIGHT>3809</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>36</NO>
+		<NAME>Полка 300 СК100</NAME>
+		<PRICE>232</PRICE>
+		<WEIGHT>3985</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>37</NO>
+		<NAME>Полка 400 СК100</NAME>
+		<PRICE>265</PRICE>
+		<WEIGHT>4161</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>38</NO>
+		<NAME>Полка 500 СК100</NAME>
+		<PRICE>342</PRICE>
+		<WEIGHT>4337</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>39</NO>
+		<NAME>Полка 600 СК100</NAME>
+		<PRICE>429</PRICE>
+		<WEIGHT>4513</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>40</NO>
+		<NAME>Нащельник средний СК100</NAME>
+		<PRICE>82</PRICE>
+		<WEIGHT>4689</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>41</NO>
+		<NAME>Панель задняя СК125</NAME>
+		<PRICE>250</PRICE>
+		<WEIGHT>4865</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>42</NO>
+		<NAME>Панель фриза СК125</NAME>
+		<PRICE>102</PRICE>
+		<WEIGHT>5041</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>43</NO>
+		<NAME>Полка 300 СК125</NAME>
+		<PRICE>269</PRICE>
+		<WEIGHT>5217</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>44</NO>
+		<NAME>Полка 400 СК125</NAME>
+		<PRICE>359</PRICE>
+		<WEIGHT>5393</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>45</NO>
+		<NAME>Полка 500 СК125</NAME>
+		<PRICE>399</PRICE>
+		<WEIGHT>5569</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>46</NO>
+		<NAME>Полка 600 СК125</NAME>
+		<PRICE>502</PRICE>
+		<WEIGHT>5745</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>47</NO>
+		<NAME>Основание фриза ЛДС СК125</NAME>
+		<PRICE>336</PRICE>
+		<WEIGHT>5921</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>48</NO>
+		<NAME>Нащельник средний СК125</NAME>
+		<PRICE>88</PRICE>
+		<WEIGHT>6097</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>49</NO>
+		<NAME>Панель задняя СКУ</NAME>
+		<PRICE>211</PRICE>
+		<WEIGHT>6273</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>50</NO>
+		<NAME>Панель нижняя СКУ  (боковина 500)</NAME>
+		<PRICE>38</PRICE>
+		<WEIGHT>6449</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>51</NO>
+		<NAME>Панель нижняя СКУ (боковина 600)</NAME>
+		<PRICE>30</PRICE>
+		<WEIGHT>6625</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>52</NO>
+		<NAME>Панель задняя верхняя СКУ</NAME>
+		<PRICE>96</PRICE>
+		<WEIGHT>6801</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>53</NO>
+		<NAME>Полка 300 СКУ</NAME>
+		<PRICE>169</PRICE>
+		<WEIGHT>6977</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>54</NO>
+		<NAME>Полка 400 СКУ</NAME>
+		<PRICE>207</PRICE>
+		<WEIGHT>7153</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>55</NO>
+		<NAME>Полка 500 СКУ</NAME>
+		<PRICE>235</PRICE>
+		<WEIGHT>7329</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>56</NO>
+		<NAME>Полка 600 СКУ</NAME>
+		<PRICE>253</PRICE>
+		<WEIGHT>7505</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>57</NO>
+		<NAME>Панель задняя перфорированная СКУ</NAME>
+		<PRICE>238</PRICE>
+		<WEIGHT>7681</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>58</NO>
+		<NAME>Панель фриза СКУ</NAME>
+		<PRICE>32</PRICE>
+		<WEIGHT>7857</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>59</NO>
+		<NAME>Основание фриза ЛДС СКУ</NAME>
+		<PRICE>271</PRICE>
+		<WEIGHT>8033</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>60</NO>
+		<NAME>Панель задняя СКУН</NAME>
+		<PRICE>69</PRICE>
+		<WEIGHT>8209</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>61</NO>
+		<NAME>Панель нижняя СКУН (боковина 500)</NAME>
+		<PRICE>79</PRICE>
+		<WEIGHT>8385</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>62</NO>
+		<NAME>Панель нижняя СКУН  (боковина 600)</NAME>
+		<PRICE>91</PRICE>
+		<WEIGHT>8561</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>63</NO>
+		<NAME>Панель задняя верхняя СКУН</NAME>
+		<PRICE>42</PRICE>
+		<WEIGHT>8737</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>64</NO>
+		<NAME>Полка 300 СКУН</NAME>
+		<PRICE>131</PRICE>
+		<WEIGHT>8913</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>65</NO>
+		<NAME>Полка 400 СКУН</NAME>
+		<PRICE>182</PRICE>
+		<WEIGHT>9089</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>66</NO>
+		<NAME>Полка 500 СКУН</NAME>
+		<PRICE>222</PRICE>
+		<WEIGHT>9265</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>67</NO>
+		<NAME>Полка 600 СКУН</NAME>
+		<PRICE>263</PRICE>
+		<WEIGHT>9441</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>68</NO>
+		<NAME>Панель фриза СКУН</NAME>
+		<PRICE>110</PRICE>
+		<WEIGHT>9617</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>69</NO>
+		<NAME>Основание фриза ЛДС СКУН</NAME>
+		<PRICE>257</PRICE>
+		<WEIGHT>9793</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>70</NO>
+		<NAME>Короб хлебный</NAME>
+		<PRICE>1518</PRICE>
+		<WEIGHT>9969</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>71</NO>
+		<NAME>Полка хлебная в сборе</NAME>
+		<PRICE>905</PRICE>
+		<WEIGHT>10145</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>72</NO>
+		<NAME>Полка демонстрационная в сборе</NAME>
+		<PRICE>692</PRICE>
+		<WEIGHT>10321</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>73</NO>
+		<NAME>Короб конфетный со стеклом 300</NAME>
+		<PRICE>1450</PRICE>
+		<WEIGHT>10497</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>74</NO>
+		<NAME>Короб конфетный со стеклом 400</NAME>
+		<PRICE>1527</PRICE>
+		<WEIGHT>10673</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>75</NO>
+		<NAME>Ограждение на полку хром. 125см</NAME>
+		<PRICE>131</PRICE>
+		<WEIGHT>10849</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>76</NO>
+		<NAME>Ограждение на полку хром. 100см</NAME>
+		<PRICE>113</PRICE>
+		<WEIGHT>11025</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>77</NO>
+		<NAME>Ограждение на полку хром. 65см</NAME>
+		<PRICE>94</PRICE>
+		<WEIGHT>11201</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>78</NO>
+		<NAME>Ценникодержатель 125см</NAME>
+		<PRICE>43</PRICE>
+		<WEIGHT>11377</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>79</NO>
+		<NAME>Ценникодержатель 100см</NAME>
+		<PRICE>34</PRICE>
+		<WEIGHT>11553</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>80</NO>
+		<NAME>Ценникодержатель 80см</NAME>
+		<PRICE>34</PRICE>
+		<WEIGHT>11729</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>81</NO>
+		<NAME>Ценникодержатель 65см</NAME>
+		<PRICE>22</PRICE>
+		<WEIGHT>11905</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>82</NO>
+		<NAME>Ценникодержатель 51см</NAME>
+		<PRICE>18</PRICE>
+		<WEIGHT>12081</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>83</NO>
+		<NAME>Ценникодержатель 37см</NAME>
+		<PRICE>14</PRICE>
+		<WEIGHT>12257</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>84</NO>
+		<NAME>Ценникодержатель 23см</NAME>
+		<PRICE>10</PRICE>
+		<WEIGHT>12433</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>85</NO>
+		<NAME>Панель задняя перф. СК125</NAME>
+		<PRICE>273</PRICE>
+		<WEIGHT>12609</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>86</NO>
+		<NAME>Кронштейн 300</NAME>
+		<PRICE>34</PRICE>
+		<WEIGHT>12785</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>87</NO>
+		<NAME>Кронштейн 400</NAME>
+		<PRICE>39</PRICE>
+		<WEIGHT>12961</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>88</NO>
+		<NAME>Кронштейн 500</NAME>
+		<PRICE>70</PRICE>
+		<WEIGHT>13137</WEIGHT>
+	</COMP>
+	<COMP>
+		<NO>89</NO>
+		<NAME>Кронштейн 600</NAME>
+		<PRICE>88</PRICE>
+		<WEIGHT>13313</WEIGHT>
+	</COMP>
+
+</INVENTORY>
